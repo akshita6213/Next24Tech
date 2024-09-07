@@ -54,7 +54,7 @@ This project enhances the spam classification task by using Word2Vec for better 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Kanishka-ctrl/Next24Tech.git
+   git clone https://github.com/akshita6213/Next24Tech.git
    ```
 2. Navigate to the desired project directory.
 3. Open the Jupyter notebook and follow the instructions to run the project.
