@@ -1,0 +1,16 @@
+# For Data Processing and Machine Learning
+pandas==2.0.3
+numpy==1.25.2
+scikit-learn==1.3.0
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# For Natural Language Processing
+nltk==3.8.1
+gensim==4.3.0
+
+# For Recommendation Systems
+surprise==1.1.1
+
+# For Visualization
+plotly==5.15.0
